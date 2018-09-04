@@ -1,0 +1,6 @@
+Ishikawa	Kanazawa	36.5613	136.656205
+Kanagawa	Yokohama	35.906487	139.6380
+Hokkaido	Sapporo	43.0621	141.3544
+Okinawa	Naha	26.2123	127.6792
+Kyoto	Kyoto	35.0116	135.7680
+Fukuoka	Fukuoka	33.5904	130.4017
